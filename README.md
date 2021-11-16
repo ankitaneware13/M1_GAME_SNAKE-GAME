@@ -1,2 +1,2 @@
- M1_Game_Snake
+# M1_Game_Snake
 Miniproject
