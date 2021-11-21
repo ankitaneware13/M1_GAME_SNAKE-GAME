@@ -8,7 +8,7 @@ CXXFLAGS = -std=c11 -Wall
 LDFLAGS = 
 
 # Makefile settings - Can be customized.
-APPNAME = code
+APPNAME = 3_implementation
 EXT = .c
 SRCDIR = src
 OBJDIR = obj
