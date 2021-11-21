@@ -15,6 +15,12 @@ File Size: 20 MB.
 
 OS: Windows 7/8/10
 
+**SWOT ANALYSIS:**
+
+
+
+![swot analysis](https://user-images.githubusercontent.com/90825310/142719198-2cbbaf04-f4c4-4ca6-bac7-0be22f28e023.png)
+
 **4 W and 1 H:**
 
 **Who:**
