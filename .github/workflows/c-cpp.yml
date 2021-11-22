@@ -13,10 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: build
-      run: gcc snake.cpp -o snake.exe
     - name: make
-      run: make
-    - name: Run
-      run: ./snake.exe
-    
+      run: make -C 3_Implementation/ all
+   
