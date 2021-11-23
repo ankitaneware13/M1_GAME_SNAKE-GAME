@@ -1,0 +1,20 @@
+.github/workflows/snake.cpp:135:6: style: Unused variable: m [unusedVariable]
+ int m, n;
+     ^
+.github/workflows/snake.cpp:135:9: style: Unused variable: n [unusedVariable]
+ int m, n;
+        ^
+3_Implementation/snake.cpp:135:6: style: Unused variable: m [unusedVariable]
+ int m, n;
+     ^
+3_Implementation/snake.cpp:135:9: style: Unused variable: n [unusedVariable]
+ int m, n;
+        ^
+snake.cpp:135:6: style: Unused variable: m [unusedVariable]
+ int m, n;
+     ^
+snake.cpp:135:9: style: Unused variable: n [unusedVariable]
+ int m, n;
+        ^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingIncludeSystem]
+
