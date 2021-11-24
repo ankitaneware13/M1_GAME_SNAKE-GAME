@@ -8,3 +8,7 @@ https://github.com/ankitaneware13/M1_Game_Snake/blob/main/2_Design/Behavior%20Di
 **2.Structure digram**
 
 https://github.com/ankitaneware13/M1_Game_Snake/blob/main/2_Design/Structure%20Diagrams/README.md
+
+**3.UML diagram**
+
+https://github.com/ankitaneware13/M1_Game_Snake/blob/main/2_Design/README.md
