@@ -85,12 +85,6 @@ void UnityMessage(const char* msg, const UNITY_LINE_TYPE line)
 3_Implementation/snake.cpp:135:9: style: Unused variable: n [unusedVariable]
  int m, n;
         ^
-snake.cpp:135:6: style: Unused variable: m [unusedVariable]
- int m, n;
-     ^
-snake.cpp:135:9: style: Unused variable: n [unusedVariable]
- int m, n;
-        ^
 3_Implementation/Unity/unity.c:685:0: style: The function 'UnityAssertBits' is never used. [unusedFunction]
 
 ^
